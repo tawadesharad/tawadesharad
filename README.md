@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👋 I’m Sharad Tawade
+- 🔭 I’m currently working as data science intern
+- 🌱 I’m currently learning data science
+- 📫 Reach me on: tawadesharad13@gmail.com
 
 <!--
 **tawadesharad/tawadesharad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
