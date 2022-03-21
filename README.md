@@ -6,7 +6,7 @@
 <h1 align="center">It's not about me, it's about the data.</h1>
 
 
-- Well versed with major ML algorithms: **Deep Learning, NLP, Supervised, Unsupervised** etc.
+- Well versed with major ML algorithms: **Supervised, Unsupervised, NLP** etc.
 
 - Currently, focussed on learning **Deep Learning**, Big data, AWS, Deployment etc.
 
