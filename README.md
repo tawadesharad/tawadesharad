@@ -22,6 +22,16 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tawadesharad&langs_count=5&theme=tokyonight">
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawadesharad&show_icons=true&locale=en" alt="tawadesharad" /></p>
+
+
+
+
+
+
+
 <!--
 **tawadesharad/tawadesharad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
